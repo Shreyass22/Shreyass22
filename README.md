@@ -45,8 +45,15 @@ The Web Technologies I am familier with are:
   - Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
   - C#
 
-<p align="center">
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyass22&show_icons=true&hide_border=true" />
+
+</details>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> 
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
@@ -56,7 +63,10 @@ The Web Technologies I am familier with are:
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+  
   
 </p>
