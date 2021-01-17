@@ -1,11 +1,11 @@
 ## Hi there, Here is what I'm working on! 👋
 
-## <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="120" align="center"> I am Shreyas Jaiswal a Software Developer! 
+## I am Shreyas Jaiswal a Software Developer! <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="120" align="center">
 
-- 🔭 I just launched My Portfolio: Soon🔜
+- 🔭 My Portfolio: Coming Soon🔜
 - 💻 I’m currently learning everything 🤣
-- ⛓ I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⛓ I’m looking to collaborate with other developers and creators
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest &nbsp;&nbsp;&nbsp;reason for not liking a specific language as "it's not fun to program."
 
 <!-- https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif -->
@@ -52,8 +52,7 @@
 
   - Java <img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="20" align="center">
   - Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-  - C/C++
-
+  - C/C++ <img src="https://media.giphy.com/media/xtqI88p0uJAHSW2A22/giphy.gif" width="20" align="center">
 <details>
   <summary>:zap: GitHub Stats</summary>
 
