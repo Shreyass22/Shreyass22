@@ -27,7 +27,7 @@
 
 </div>
 
-### I work on Projects Irrespective of it's Domain
+### Open to work on Any Project 😄
 
 <!-- <img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22"> -->
 
