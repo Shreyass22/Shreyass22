@@ -1,8 +1,15 @@
 ## Hi there, Here is what I'm working on! 👋
 
-## I am Shreyas Jaiswal a Software Developer! <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="20" align="center">
+## I am Shreyas Jaiswal a Software Developer! <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80" align="center">
 
- <!-- https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif -->
+- 🔭 I just launched My Portfolio: Soon🔜
+- 💻 I’m currently learning everything 🤣
+- ⛓ I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."
+
+<!-- https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif -->
+<!-- https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif -->
 
 ### <img src="https://media.giphy.com/media/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="12" align="center"> Mumbai, India
 
@@ -13,31 +20,23 @@
 <a href="https://www.linkedin.com/in/shreyas-jaiswal-361373187/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/ShreyasSushil" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<!-- https://img.shields.io/badge/Instagram-%230077B5.svg?&style=flat-square&logo=instagram&logoColor=white -->
 
 <!-- <a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile) <a/> -->
 
 </div>
 
-### I work on Web Projects
+### I work on Projects Irrespective of it's Domain
 
-<img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22">
-
-The Web Technologies I am familier with are:
+<!-- <img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22"> -->
 
 - FrontEnd
 
-  - HTML, CSS <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
+  - HTML5 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center">
+  - CSS3 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
+  - Bootstrap4 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
   - ReactJs <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" align="center">
-  - Tailwind CSS
-  - Bootstrap <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
 
 * Back End
 
@@ -45,21 +44,27 @@ The Web Technologies I am familier with are:
   - NodeJs <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20" align="center">
   - Express <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="20" align="center">
 
+  - App Development
+
+  - Android <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20" align="center">
+
 * Other Programming Languages
 
   - Java <img src="https://media.giphy.com/media/l0HU7JI4zIb34QM5a/giphy.gif" width="20" align="center">
   - Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-  - C#
+  - C/C++
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyass22&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shreyass22 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22" />
 
 </details>
-
+<br>
+<br>
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80">
+  <!-- <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80"> -->
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> 
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
