@@ -1,12 +1,12 @@
 ## Hi there, Here is what I'm working on! 👋
 
-## I am Shreyas Jaiswal a Software Developer! <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80" align="center">
+## <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="120" align="center"> I am Shreyas Jaiswal a Software Developer! 
 
 - 🔭 I just launched My Portfolio: Soon🔜
 - 💻 I’m currently learning everything 🤣
 - ⛓ I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not liking a specific language as "it's not fun to program."
+- ⚡ Fun fact: Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest &nbsp;&nbsp;&nbsp;reason for not liking a specific language as "it's not fun to program."
 
 <!-- https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif -->
 <!-- https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif -->
@@ -44,7 +44,7 @@
   - NodeJs <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="20" align="center">
   - Express <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="20" align="center">
 
-  - App Development
+* App Development
 
   - Android <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20" align="center">
 
@@ -60,9 +60,6 @@
   <img align="left" alt="Shreyass22 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22" />
 
 </details>
-<br>
-<br>
-<br>
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="80"> -->
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
