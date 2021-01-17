@@ -56,7 +56,7 @@ The Web Technologies I am familier with are:
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
   
 </p>
