@@ -27,6 +27,9 @@
 
 </div>
 
+# Profile Visits
+![ViewCount](https://views.whatilearened.today/views/github/Shreyass22/views.svg)
+
 ### Open to work on Any Project 😄
 
 <!-- <img align='right' href="#" src="https://github-readme-stats.vercel.app/api?username=Shreyass22&show_icons=true%22"> -->
