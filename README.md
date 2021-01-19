@@ -27,8 +27,8 @@
 
 </div>
 
-# Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyass22&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=Shreyass22&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+<!-- # Status
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyass22&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=Shreyass22&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub) -->
 
 # Profile Visits
 ![ViewCount](https://views.whatilearened.today/views/github/Shreyass22/views.svg)
