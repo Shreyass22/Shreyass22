@@ -3,7 +3,7 @@
 ## I am Shreyas Jaiswal a Software Developer! <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="120" align="center">
 
 - 🔭 My Portfolio: Coming Soon🔜
-- 💻 I’m currently learning everything 🤣
+- 💻 I’m currently pursuing Bachelor of Engineering in Information Technology
 - ⛓ I’m looking to collaborate with other developers and creators
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: Work should be fun, even for software engineers. Forty-nine percent of respondents cited their biggest reason for not &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liking a specific language as "it's not fun to program."
