@@ -41,8 +41,7 @@
 
   - HTML5 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="20" align="center">
   - CSS3 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="20" align="center">
-  - Bootstrap4 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
-  - ReactJs <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" align="center">
+  - Bootstrap5 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="20" align="center">
 
 * Back End
 
@@ -71,7 +70,7 @@
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> 
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+<!--   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"> -->
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
